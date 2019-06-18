@@ -6,3 +6,4 @@
 - A disciplined approach to neural network hyper-parameters: Part 1 [[arxiv]](https://arxiv.org/pdf/1803.09820.pdf)
 - An overview of gradient descent optimization algorithms; Sebastian Ruder [[link]](http://ruder.io/optimizing-gradient-descent/)
 - Interpretable Machine Learning (A Guide for Making Black Box Models Explainable.) [[link]](https://christophm.github.io/interpretable-ml-book/)
+- Machine Learning Yearning, Technical Strategy for AI engineers by Andrew Ng (Draft Version)
