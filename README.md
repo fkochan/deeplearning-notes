@@ -7,3 +7,4 @@
 - An overview of gradient descent optimization algorithms; Sebastian Ruder [[link]](http://ruder.io/optimizing-gradient-descent/)
 - Interpretable Machine Learning (A Guide for Making Black Box Models Explainable.) [[link]](https://christophm.github.io/interpretable-ml-book/)
 - Machine Learning Yearning, Technical Strategy for AI engineers by Andrew Ng (Draft Version)
+- A Systems Perspective to Reproducibility in Production Machine Learning Domain [[link]](https://openreview.net/pdf?id=Byl4vavigX)
