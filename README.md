@@ -1,4 +1,4 @@
-# deeplearning-notes
+# notes
 
 - CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning
 [[arxiv]](https://arxiv.org/pdf/1711.05225v3.pdf) 
@@ -8,3 +8,6 @@
 - Interpretable Machine Learning (A Guide for Making Black Box Models Explainable.) [[link]](https://christophm.github.io/interpretable-ml-book/)
 - Machine Learning Yearning, Technical Strategy for AI engineers by Andrew Ng (Draft Version)
 - A Systems Perspective to Reproducibility in Production Machine Learning Domain [[link]](https://openreview.net/pdf?id=Byl4vavigX)
+- Uniswap V2 Core Whitepaper [[link]](https://uniswap.org/whitepaper.pdf)
+- Aave V2 Whitepaper [[link]](https://github.com/aave/protocol-v2/blob/master/aave-v2-whitepaper.pdf)
+- Compound Whitepaper [[link]](https://compound.finance/documents/Compound.Whitepaper.pdf)
